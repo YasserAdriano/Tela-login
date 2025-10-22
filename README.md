@@ -2,7 +2,7 @@
 
 Este é um projeto de estudo focado na criação de um aplicativo desktop completo para login de usuários, construído inteiramente em Python. O objetivo foi praticar a criação de interfaces gráficas (UI) modernas, a arquitetura de aplicativos de "página única" (SPA) e a integração com um banco de dados local.
 
-![Tela de Login do Aplicativo](login-screenshot.png)
+![Tela de Login do Aplicativo](image.png)
 
 
 ## Funcionalidades
@@ -52,3 +52,4 @@ Este fluxo foi implementado como uma **prova de conceito** (PoC) para demonstrar
 3.  Atualizar um registro existente no banco de dados com uma nova senha (corretamente "hasheada" e "salteada").
 
 **Solução em um Caso Real:** Em um aplicativo de produção, este fluxo seria substituído por um sistema de verificação por e-mail, onde um link secreto (token) de uso único é enviado para o e-mail cadastrado do usuário, provando que ele é o dono da conta.
+
