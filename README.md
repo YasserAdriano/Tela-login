@@ -4,6 +4,11 @@ Este é um projeto de estudo focado na criação de um aplicativo desktop comple
 
 ![Tela de Login do Aplicativo](image.png)
 
+![Tela de "esqueci minha senha"](image2.png)
+
+![Tela de login concluido](image3.png)
+
+
 
 ## Funcionalidades
 
@@ -52,4 +57,5 @@ Este fluxo foi implementado como uma **prova de conceito** (PoC) para demonstrar
 3.  Atualizar um registro existente no banco de dados com uma nova senha (corretamente "hasheada" e "salteada").
 
 **Solução em um Caso Real:** Em um aplicativo de produção, este fluxo seria substituído por um sistema de verificação por e-mail, onde um link secreto (token) de uso único é enviado para o e-mail cadastrado do usuário, provando que ele é o dono da conta.
+
 
