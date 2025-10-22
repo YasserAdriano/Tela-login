@@ -1,0 +1,10 @@
+# Arquivos de banco de dados
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache do Python
+__pycache__/
+
+# Arquivos de IDE (opcional, mas bom)
+.vscode/
